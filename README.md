@@ -56,8 +56,8 @@ The portfolio is fully responsive and optimized for:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Zanethemba-Ngwenya/zanethemba-ngwenya.github.io.git
-   cd zanethemba-ngwenya.github.io
+   git clone https://github.com/SandileMbh/sandilembh.github.io/sandile_mbh.github.io/
+   cd sandilembh.github.io/sandile_mbh.github.io
    ```
 
 2. **Open the project**
